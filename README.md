@@ -2,14 +2,14 @@
 This Power BI dashboard presents a detailed global analysis of renewable energy investments, capturing trends in total investment, project count, funding sources, and government support mechanisms across various technologies and regions. The dashboard allows policymakers, investors, and analysts to explore clean energy project data from 1990 to 2012.
 
 **Dashboard Overview**
-🔹 **Key Metrics (Top KPIs)**
+**Key Metrics (Top KPIs)**
 Total Investment: 275.15K (aggregate value across projects)
 Number of Projects: 1,699
 Private Funding: 8.92K (investment supported by private sources)
 
 **Main Visualizations**
 **1. Investment by Country and Technology**
-  Interactive map showing geographic distribution of renewable energy investment.
+  Interactive map showing the geographic distribution of renewable energy investment.
   Color-coded by technology (e.g., Biogas, Biomass, Hydro, Solar).
 **2. Investment Trend Over Time**
   Line chart tracking total investment by financial closure year and region (1990–2012).
